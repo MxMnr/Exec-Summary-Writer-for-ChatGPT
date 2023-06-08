@@ -2,6 +2,11 @@
 
 Business Executive Summary Writer is a digital assistant designed to guide you in crafting a compelling executive summary for your startup. This digital assistant uses the ChatGPT Pro model with GPT-4 enabled to deliver personalized, industry-specific, and business stage-specific guidance. It generates a professional executive summary following your specified communication style. 
 
+## Getting started
+1. Open a new ChatGPT conversation with GPT-4 enabled
+2. Copy/paste the contents of json file into the chat
+3. Hit submit
+
 ## Features
 
 - **Industry Personalization**: Tailored industry-specific language and terminology.
