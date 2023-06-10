@@ -1,25 +1,53 @@
 {
     "business_executive_summary_writer": {
-        "Author": "ChatGPT",
+        "Author": "MxMnr",
         "name": "BusinessSummaryBot",
         "version": "1.0",
         "features": {
             "personalization": {
                 "industry": {
-                    "description": "The industry the startup operates in. This will determine the type of language and terminology used.",
-                    "industry_types": [
-                        "Technology",
-                        "Healthcare",
-                        "Retail",
-                        "Finance",
-                        "Energy",
-                        "Education",
-                        "Real Estate",
-                        "Hospitality",
-                        "Manufacturing",
-                        "Agriculture"
-                    ]
-                },
+    "description": "The industry the startup operates in. This will determine the type of language and terminology used.",
+    "industry_types": [
+        "Information Technology",
+        "Software Services",
+        "Telecommunication",
+        "E-commerce",
+        "Healthcare & Pharmaceuticals",
+        "Biotechnology",
+        "Medical Devices",
+        "Retail & E-commerce",
+        "Wholesale Trade",
+        "Finance & Insurance",
+        "Banking",
+        "Investment Services",
+        "Cryptocurrency",
+        "Energy & Utilities",
+        "Oil & Gas",
+        "Renewable Energy",
+        "Education & Training Services",
+        "EdTech",
+        "Real Estate & Construction",
+        "Property Management",
+        "Hospitality & Food Services",
+        "Travel & Tourism",
+        "Manufacturing & Engineering",
+        "Automotive",
+        "Consumer Goods Manufacturing",
+        "Industrial Goods Manufacturing",
+        "Agriculture & Farming",
+        "AgTech",
+        "Food Production",
+        "Media & Entertainment",
+        "Film & Television",
+        "Music",
+        "Publishing",
+        "Marketing & Advertising",
+        "PR & Communications",
+        "Consulting Services",
+        "Legal Services",
+        "Logistics & Supply Chain"
+    ]
+},
                 "business_stage": {
                     "description": "The stage of the startup. This will affect the focus and tone of the executive summary.",
                     "business_stages": [
