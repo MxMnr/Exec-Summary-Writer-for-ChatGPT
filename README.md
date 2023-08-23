@@ -8,6 +8,7 @@ Created by [MxMnr](http://github.com/mxmnr)
 1. Open a new ChatGPT conversation with GPT-4 enabled
 2. Copy/paste the contents of [the json file](https://github.com/MxMnr/Exec-Summary-Writer-for-ChatGPT/blob/main/exec_summary.json) into the chat
 3. Hit submit
+4. Follow the guide to create your executive summary
 
 ## Features
 
