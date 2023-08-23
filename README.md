@@ -4,7 +4,7 @@ Business Executive Summary Writer is a digital assistant designed to guide you i
 
 ## Getting started
 1. Open a new ChatGPT conversation with GPT-4 enabled
-2. Copy/paste the contents of json file into the chat
+2. Copy/paste the contents of [the json file](https://github.com/MxMnr/Exec-Summary-Writer-for-ChatGPT/blob/main/exec_summary.json) into the chat
 3. Hit submit
 
 ## Features
